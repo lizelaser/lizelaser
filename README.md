@@ -78,7 +78,7 @@ const liz = {
 ### 🤝🏻 &nbsp; Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lizeth-laserna/"><img src="https://img.shields.io/static/v1?label=&message=Lizeth%20La%20Serna&color=0A66C2&logo=linkedin&logoColor=white"/></a>
-<a href="lizeth.lasernafelices@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=lizeth.lasernafelices@gmail.com&color=red&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/lizssdhdd"><img src="https://img.shields.io/static/v1?label=&message=@lizssdhdd&color=1D9BF0&logo=twitter&logoColor=white"/></a>
-<a href="https://t.me/lizelaser"><img src="https://img.shields.io/static/v1?label=&message=@Lizelaser&color=white&logo=telegram&logoColor=white"/></a></p>
+<a target="_blank" href="https://www.linkedin.com/in/lizeth-laserna/"><img src="https://img.shields.io/static/v1?label=&message=Lizeth%20La%20Serna&color=0A66C2&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lizeth.lasernafelices@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=lizeth.lasernafelices@gmail.com&color=red&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://twitter.com/lizssdhdd"><img src="https://img.shields.io/static/v1?label=&message=@lizssdhdd&color=1D9BF0&logo=twitter&logoColor=white"/></a>
+<a target="_blank" href="https://t.me/lizelaser"><img src="https://img.shields.io/static/v1?label=&message=@Lizelaser&color=white&logo=telegram&logoColor=white"/></a></p>
