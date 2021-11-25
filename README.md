@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lizeth La Serna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Software Engineer | Freelancer | Technology Enthusiast</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DA2BF,100:6A4C91&fontColor=fff&fontSize=50&fontAlignY=32&height=300&section=header&text=Hi%20%E2%9C%8B,%20I%27m%20Lizeth%20La%20Serna!&desc=Software%20Engineer%20|%20Freelancer%20|%20Technology%20Enthusiast&descSize=20&descAlignY=51)
 
 ## 📖 About Me
 
