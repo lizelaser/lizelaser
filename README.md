@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DA2BF,100:6A4C91&fontColor=fff&fontSize=50&fontAlignY=32&height=300&section=header&text=Hi%20%E2%9C%8B,%20I%27m%20Lizeth%20La%20Serna!&desc=Software%20Engineer%20|%20Freelancer%20|%20Technology%20Enthusiast&descSize=20&descAlignY=51)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DA2BF,100:6A4C91&fontColor=fff&fontSize=50&fontAlignY=35&height=300&section=header&text=Hi%20%E2%9C%8B,%20I%27m%20Lizeth%20La%20Serna!&desc=Software%20Engineer%20|%20Freelancer%20|%20Technology%20Enthusiast&descSize=20&descAlignY=55)
 
 ## 📖 About Me
 
