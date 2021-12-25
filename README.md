@@ -24,12 +24,12 @@ const liz = {
             css: ["Material-UI", "Vuetify", "Tailwindcss"]
         },
         backEnd: {
-            python: ["Django"],
+            nodejs: ["Express"],
             CSharp: [".NET"],
-            java: ["Spring Boot"]
+            python: ["Django"]
         },
-        cloud: ["Azure", "Digital Ocean", "Cloudflare"],
-        databases: ["Postgresql", "SqlServer", "MySql", "Firebase"]
+        cloud: ["AWS","Azure", "Digital Ocean", "Cloudflare"],
+        databases: ["Postgresql", "SqlServer", "MySql", "MongoDB","Elasticsearch"]
     },
     currentFocus: "web application development",
     funFact: "There are two ways to write error-free programs; only the third one works"
