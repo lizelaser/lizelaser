@@ -29,7 +29,7 @@ const liz = {
             python: ["Django"]
         },
         cloud: ["AWS","Azure", "Digital Ocean", "Cloudflare"],
-        databases: ["Postgresql", "SqlServer", "MySql", "MongoDB","Elasticsearch"]
+        databases: ["Postgresql", "SqlServer", "MySql", "DynamoDB", "MongoDB","Elasticsearch"]
     },
     currentFocus: "web application development",
     funFact: "There are two ways to write error-free programs; only the third one works"
