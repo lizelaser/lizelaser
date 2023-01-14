@@ -20,16 +20,16 @@ const liz = {
     askMeAbout: ["tech", "web dev", "backend dev", "database"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Vuex", "Nuxt", "Vite", "Angular"],
-            css: ["Material-UI", "Vuetify", "Tailwindcss"]
+            js: ["Vue", "Nuxt", "Vite", "React", "Next", "Angular"],
+            css: ["Material-UI", "Vuetify", "Tailwindcss", "Headless UI"]
         },
         backEnd: {
             nodejs: ["Express"],
             CSharp: [".NET"],
             python: ["Django"]
         },
-        cloud: ["AWS","Azure", "Digital Ocean", "Cloudflare"],
-        databases: ["Postgresql", "SqlServer", "MySql", "DynamoDB", "MongoDB","Elasticsearch"]
+        cloud: ["AWS","Azure", "Google Cloud", "Cloudflare"],
+        databases: ["DynamoDB", "MongoDB", "Postgresql", "SqlServer", "MySql","Elasticsearch"]
     },
     currentFocus: "web application development",
     funFact: "There are two ways to write error-free programs; only the third one works"
